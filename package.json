@@ -22,5 +22,13 @@
     "android",
     "windows",
     "ios"
-  ]
+  ],
+  "bundleDependencies": [
+    "elementtree",
+    "q"
+  ],
+  "dependencies": {
+    "elementtree": "0.1.6",
+    "q": "1.4.1"
+  }
 }
