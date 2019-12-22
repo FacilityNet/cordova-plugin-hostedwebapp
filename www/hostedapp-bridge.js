@@ -1,5 +1,5 @@
 ﻿if (window.cordova.platformId === 'ios') {
-    cordova.require('cordova-plugin-wkwebview-engine.ios-wkwebview-exec');
+    cordova.require('cordova-plugin-ionic-webview.ios-wkwebview-exec');
 }
 (function (platform, pluginMode, cordovaBaseUrl) {
     function onCordovaLoaded() {
