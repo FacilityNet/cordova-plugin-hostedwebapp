@@ -3,3 +3,5 @@
 npm-debug.log
 coverage.html
 .ntvs_analysis.dat
+package-lock.json
+.vscode/
